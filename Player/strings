@@ -1,0 +1,5 @@
+stringVar = ‘Programmer‘
+x=stringVar.replace('r', 'g') 
+print(x)
+a="programmer"
+print(len(a))
